@@ -4,7 +4,7 @@ A minimal Spring Boot application with a `GET /api/hello` endpoint and a static 
 
 ## Requirements
 
-- Java 21 (or compatible version configured in `build.gradle`)
+- Java 17 (or compatible version configured in `build.gradle`)
 - Gradle 8.7+ (or use the Gradle Wrapper once generated — run `gradle wrapper` if missing)
 
 ## Running the application
